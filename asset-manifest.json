@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/MyCookBook/static/js/app.f9153dd6.chunk.js",
-    "app.js.map": "/MyCookBook/static/js/app.f9153dd6.chunk.js.map",
+    "app.js": "/MyCookBook/static/js/app.30ed1fd4.chunk.js",
+    "app.js.map": "/MyCookBook/static/js/app.30ed1fd4.chunk.js.map",
     "runtime~app.js": "/MyCookBook/static/js/runtime~app.add0a17d.js",
     "runtime~app.js.map": "/MyCookBook/static/js/runtime~app.add0a17d.js.map",
-    "static/js/2.88dccbd5.chunk.js": "/MyCookBook/static/js/2.88dccbd5.chunk.js",
-    "static/js/2.88dccbd5.chunk.js.map": "/MyCookBook/static/js/2.88dccbd5.chunk.js.map",
+    "static/js/2.06a84fc2.chunk.js": "/MyCookBook/static/js/2.06a84fc2.chunk.js",
+    "static/js/2.06a84fc2.chunk.js.map": "/MyCookBook/static/js/2.06a84fc2.chunk.js.map",
     "favicon-16.png": "/MyCookBook/favicon-16.png",
     "favicon-32.png": "/MyCookBook/favicon-32.png",
     "favicon.ico": "/MyCookBook/favicon.ico",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.add0a17d.js",
-    "static/js/2.88dccbd5.chunk.js",
-    "static/js/app.f9153dd6.chunk.js"
+    "static/js/2.06a84fc2.chunk.js",
+    "static/js/app.30ed1fd4.chunk.js"
   ]
 }

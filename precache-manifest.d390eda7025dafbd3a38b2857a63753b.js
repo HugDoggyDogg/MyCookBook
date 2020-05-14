@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "22b30bc5a46dfc06f21a",
-    "url": "/MyCookBook/static/js/app.f9153dd6.chunk.js"
+    "revision": "a5e509a974e94758e030",
+    "url": "/MyCookBook/static/js/app.30ed1fd4.chunk.js"
   },
   {
     "revision": "dc0bde5a9006ab8c1cc2",
     "url": "/MyCookBook/static/js/runtime~app.add0a17d.js"
   },
   {
-    "revision": "b15d53ee85914a2c0438",
-    "url": "/MyCookBook/static/js/2.88dccbd5.chunk.js"
-  },
-  {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/MyCookBook/serve.json"
+    "revision": "f758633b11532ec71b73",
+    "url": "/MyCookBook/static/js/2.06a84fc2.chunk.js"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/MyCookBook/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/MyCookBook/serve.json"
   },
   {
     "revision": "afd5733ac789ab1795f1ed7a26e1ecd3",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/MyCookBook/favicon.ico"
   },
   {
-    "revision": "e8d94dec22cda86dbfa1bc392619cb7e",
+    "revision": "7c64f24d31784dd22f13a4753deb47a5",
     "url": "/MyCookBook/index.html"
   },
   {
